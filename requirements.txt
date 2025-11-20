@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pillow
+numpy
+opencv-python-headless
+torch
+torchvision
+facenet-pytorch
+chromadb
